@@ -1,5 +1,5 @@
-%% [author] : John Melody Me <Johnmelody@dingtalk.com>
-%% [project] : Luhn Algorithm
+%% [author] : 钟智强 <ctkqiang@dingtalk.com>
+%% [project] : caesar_cipher
 %% execute by caesar_cipher:cipher("whaettttt", 23).
 
 -module(caesar_cipher).
